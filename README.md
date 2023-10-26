@@ -27,3 +27,4 @@ Object of lab is to follow the chapter reading the Chapter 1 pdf in the doc fold
 Can you draw a house with a tree along side? (think `trunk` and `circle` or a tall, skinny `triangle`.)
 
 When finished, post a screen shot of your house to the slack CHATTER channel. 
+    
